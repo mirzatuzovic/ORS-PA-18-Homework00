@@ -1,2 +1,2 @@
 print("Hello World")
-print("Moje ime je Mirza!") #predstavljanje
+print("Moje ime je Mirza!")
